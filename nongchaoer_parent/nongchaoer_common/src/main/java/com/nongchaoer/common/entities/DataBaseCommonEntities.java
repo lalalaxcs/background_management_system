@@ -10,11 +10,11 @@ import java.time.LocalDateTime;
 /**
  * @author : [xvChuShun]
  * @version : [v1.0]
- * @description : [一句话描述该类的功能]
+ * @description : [通用数据库实体类]
  * @createTime : [2023/6/27 12:12]
  * @updateUser : [xvChuShun]
  * @updateTime : [2023/6/27 12:12]
- * @updateRemark : [说明本次修改内容]
+ * @updateRemark : [创建通用数据库实体类]
  */
 @Data
 @NoArgsConstructor

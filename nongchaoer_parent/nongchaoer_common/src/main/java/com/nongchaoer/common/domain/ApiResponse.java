@@ -9,11 +9,11 @@ import java.io.Serializable;
 /**
  * @author : [xvChuShun]
  * @version : [v1.0]
- * @description : [一句话描述该类的功能]
+ * @description : [统一封装结果类]
  * @createTime : [2023/6/27 12:09]
  * @updateUser : [xvChuShun]
  * @updateTime : [2023/6/27 12:09]
- * @updateRemark : [说明本次修改内容]
+ * @updateRemark : [创建统一封装结果类]
  */
 @Data
 public class ApiResponse<T> implements Serializable {
