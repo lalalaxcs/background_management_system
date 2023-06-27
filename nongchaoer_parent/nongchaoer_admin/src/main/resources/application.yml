@@ -1,0 +1,13 @@
+server:
+  port: 8078
+spring:
+  application:
+    name: nongchaoer_admin_product
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      config:
+        group: DEFAULT_GROUP
+        namespace: public
+  config:
+    import: nacos:nongchaoer_admin_product-dev.yaml
